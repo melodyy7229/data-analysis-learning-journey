@@ -1,1 +1,2 @@
-# data-analysis-learning-journey
+# Hello GitHub
+This is my first GitHub project! 🚀
