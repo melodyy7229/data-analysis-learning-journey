@@ -2,7 +2,8 @@
 This repository documents my 12-week journey learning data analysis and AI.
 
 ## Week 1 - Programming Foundations for Data Analysis
-- `Week1_Day4_Python_Basics.ipynb`: Python review covering variables, data types, and if/else logic.
+- `Week1_Day4_Python_Basics.ipynb`:
+  Python review covering variables, data types, and if/else logic.
 - `Week1_Day5_Control_Flow.ipynb`: Python review covering if/else logic, for, and while.
 
 ## Week 2 - Data Foundations & Cleaning
