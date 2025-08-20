@@ -1,5 +1,5 @@
 # Data Analysis Learning Journey
-This repository documents my 12-week journey learning data analysis and AI.
+This repository documents my 8-week journey learning data analysis and AI.
 
 ## Week 1 - Programming Foundations for Data Analysis
 - `Week1_Day4_Python_Basics.ipynb`: Python review covering variables, data types, and if/else logic.
@@ -23,6 +23,10 @@ This repository documents my 12-week journey learning data analysis and AI.
 ## Week 5 - Data Visualization & Financial Insights
 - `Week5_Day1_Seaborn_Intro.ipynb`: Continued the Kaggle Learn Data Visualization course by completing the “Line Charts” and “Bar Charts and Heatmaps” modules. Practiced Seaborn basics like scatter plots with regression lines, categorical scatter plots, and box plots. Also explored advanced visualizations including heatmaps, pair plots, violin plots, joint plots, and facet grids. 
 - `Week5_Day4_Taiwan_ETF_Analysis.ipynb`: Collected Taiwan ETF data using the yfinance library and performed a visual analysis in this notebook. Calculated key performance metrics such as annualized returns, volatility, and Sharpe ratio. Created various visualizations to explore performance, risk-return relationships, ETF correlations, and potential seasonal patterns. Added Markdown notes to explain key findings and highlight the best-performing ETFs.
+
 ## Week 6 - Data Refinement & SQL-Style Analysis
 - `Week6_Day1_Cleaning_And_Visualization.ipynb`: Selected one of the small analysis projects from previous weeks (netflix_titles.csv). Focused on cleaning and visualizing the data to produce clearer insights and more polished charts.
 - `Week6_Day5_SQL_Python_Integration.ipynb`: Chose a Kaggle dataset— Ecommerce Orders Data Set. Created a new notebook to define analysis goals, prepare the data, and perform groupby and aggregation operations in Pandas (similar to SQL GROUP BY). Visualized the results using Matplotlib and Seaborn.
+
+## Week 7/8 - R Programming & Bellabeat Case Study
+- `Bellabeat Case study`: Learned R basics through the Google Data Analytics Course including data types, vectors, data frames, and essential functions. Practiced data cleaning and manipulation using `tidyverse` packages (`dplyr`, `ggplot2`). Completed the Bellabeat capstone case study from the Google Data Analytics Certificate. Analyzed smart device usage data to identify trends in activity, sleep, and wellness habits. Cleaned and transformed datasets, created visualizations with `ggplot2`, and summarized insights. Added Markdown documentation to highlight recommendations for Bellabeat’s marketing strategy.
