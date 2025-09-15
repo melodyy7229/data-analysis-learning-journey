@@ -31,3 +31,6 @@ This repository documents my 8-week journey learning data analysis and AI.
 ## Week 7 - R Programming & Bellabeat Case Study
 - `Bellabeat Case study`: Learned R basics through the Google Data Analytics Course including data types, vectors, data frames, and essential functions. Practiced data cleaning and manipulation using `tidyverse` packages (`dplyr`, `ggplot2`). Completed the Bellabeat capstone case study from the Google Data Analytics Certificate. Analyzed smart device usage data to identify trends in activity, sleep, and wellness habits. Cleaned and transformed datasets, created visualizations with `ggplot2`, and summarized insights. Added Markdown documentation to highlight recommendations for Bellabeat’s marketing strategy.
 - `Google Data Analytics Certificate.pdf`: Completed the Google Data Analytics Professional Certificate, covering data cleaning, visualization, SQL, R, and applied analytics projects.
+
+## Week 8 - SQL Mini Analysis Project
+- `SQL_mini_project.ipynb`: A hands-on project where I applied the SQL concepts I learned, including querying, filtering, grouping, and aggregating data. The notebook demonstrates how to explore and analyze datasets using SQL queries and also how SQL can be used for meaningful data insights.
